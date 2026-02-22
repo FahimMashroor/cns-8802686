@@ -1,0 +1,228 @@
+========================================
+  LABEL : reddit
+  URL   : https://www.reddit.com
+  IPs   : 151.101.65.140 151.101.193.140 151.101.1.140 151.101.129.140
+  START : 2026-02-22 05:29:39
+========================================
+  [DNS] Resolving IPs for: www.reddit.com
+  [DNS] IPv4: 151.101.129.140 151.101.65.140 151.101.193.140 151.101.1.140 
+  [DNS] IPv6:  
+  [BPF] Filter: (tcp or udp) and (host 151.101.129.140 or host 151.101.65.140 or host 151.101.193.140 or host 151.101.1.140)
+
+============================================
+  Website Fingerprinting — Traffic Capture
+============================================
+  Label     : reddit
+  URL       : https://www.reddit.com
+  Hostname  : www.reddit.com
+  Traces    : 50
+  Duration  : 30s per trace
+  Interface : en0
+  Output    : /Users/samiurprrapon/Documents/2026/Fahim/final_project/data/experiment/capture_files
+============================================
+
+[*] Trace 1/50 → reddit_trace001.pcap
+[+] Saved: reddit_trace001.pcap  (496 packets)
+    Cooling down for 5s...
+
+[*] Trace 2/50 → reddit_trace002.pcap
+[+] Saved: reddit_trace002.pcap  (534 packets)
+    Cooling down for 5s...
+
+[*] Trace 3/50 → reddit_trace003.pcap
+[+] Saved: reddit_trace003.pcap  (529 packets)
+    Cooling down for 5s...
+
+[*] Trace 4/50 → reddit_trace004.pcap
+[+] Saved: reddit_trace004.pcap  (553 packets)
+    Cooling down for 5s...
+
+[*] Trace 5/50 → reddit_trace005.pcap
+[+] Saved: reddit_trace005.pcap  (504 packets)
+    Cooling down for 5s...
+
+[*] Trace 6/50 → reddit_trace006.pcap
+[+] Saved: reddit_trace006.pcap  (524 packets)
+    Cooling down for 5s...
+
+[*] Trace 7/50 → reddit_trace007.pcap
+[+] Saved: reddit_trace007.pcap  (499 packets)
+    Cooling down for 5s...
+
+[*] Trace 8/50 → reddit_trace008.pcap
+[+] Saved: reddit_trace008.pcap  (517 packets)
+    Cooling down for 5s...
+
+[*] Trace 9/50 → reddit_trace009.pcap
+[+] Saved: reddit_trace009.pcap  (571 packets)
+    Cooling down for 5s...
+
+[*] Trace 10/50 → reddit_trace010.pcap
+[+] Saved: reddit_trace010.pcap  (539 packets)
+    Cooling down for 5s...
+
+[*] Trace 11/50 → reddit_trace011.pcap
+[+] Saved: reddit_trace011.pcap  (553 packets)
+    Cooling down for 5s...
+
+[*] Trace 12/50 → reddit_trace012.pcap
+[+] Saved: reddit_trace012.pcap  (515 packets)
+    Cooling down for 5s...
+
+[*] Trace 13/50 → reddit_trace013.pcap
+[+] Saved: reddit_trace013.pcap  (513 packets)
+    Cooling down for 5s...
+
+[*] Trace 14/50 → reddit_trace014.pcap
+[+] Saved: reddit_trace014.pcap  (516 packets)
+    Cooling down for 5s...
+
+[*] Trace 15/50 → reddit_trace015.pcap
+[+] Saved: reddit_trace015.pcap  (520 packets)
+    Cooling down for 5s...
+
+[*] Trace 16/50 → reddit_trace016.pcap
+[+] Saved: reddit_trace016.pcap  (523 packets)
+    Cooling down for 5s...
+
+[*] Trace 17/50 → reddit_trace017.pcap
+[+] Saved: reddit_trace017.pcap  (502 packets)
+    Cooling down for 5s...
+
+[*] Trace 18/50 → reddit_trace018.pcap
+[+] Saved: reddit_trace018.pcap  (536 packets)
+    Cooling down for 5s...
+
+[*] Trace 19/50 → reddit_trace019.pcap
+[+] Saved: reddit_trace019.pcap  (542 packets)
+    Cooling down for 5s...
+
+[*] Trace 20/50 → reddit_trace020.pcap
+[+] Saved: reddit_trace020.pcap  (506 packets)
+    Cooling down for 5s...
+
+[*] Trace 21/50 → reddit_trace021.pcap
+[+] Saved: reddit_trace021.pcap  (525 packets)
+    Cooling down for 5s...
+
+[*] Trace 22/50 → reddit_trace022.pcap
+[+] Saved: reddit_trace022.pcap  (500 packets)
+    Cooling down for 5s...
+
+[*] Trace 23/50 → reddit_trace023.pcap
+[+] Saved: reddit_trace023.pcap  (491 packets)
+    Cooling down for 5s...
+
+[*] Trace 24/50 → reddit_trace024.pcap
+[+] Saved: reddit_trace024.pcap  (552 packets)
+    Cooling down for 5s...
+
+[*] Trace 25/50 → reddit_trace025.pcap
+[+] Saved: reddit_trace025.pcap  (520 packets)
+    Cooling down for 5s...
+
+[*] Trace 26/50 → reddit_trace026.pcap
+[+] Saved: reddit_trace026.pcap  (554 packets)
+    Cooling down for 5s...
+
+[*] Trace 27/50 → reddit_trace027.pcap
+[+] Saved: reddit_trace027.pcap  (551 packets)
+    Cooling down for 5s...
+
+[*] Trace 28/50 → reddit_trace028.pcap
+[+] Saved: reddit_trace028.pcap  (523 packets)
+    Cooling down for 5s...
+
+[*] Trace 29/50 → reddit_trace029.pcap
+[+] Saved: reddit_trace029.pcap  (548 packets)
+    Cooling down for 5s...
+
+[*] Trace 30/50 → reddit_trace030.pcap
+[+] Saved: reddit_trace030.pcap  (539 packets)
+    Cooling down for 5s...
+
+[*] Trace 31/50 → reddit_trace031.pcap
+[+] Saved: reddit_trace031.pcap  (511 packets)
+    Cooling down for 5s...
+
+[*] Trace 32/50 → reddit_trace032.pcap
+[+] Saved: reddit_trace032.pcap  (505 packets)
+    Cooling down for 5s...
+
+[*] Trace 33/50 → reddit_trace033.pcap
+[+] Saved: reddit_trace033.pcap  (528 packets)
+    Cooling down for 5s...
+
+[*] Trace 34/50 → reddit_trace034.pcap
+[+] Saved: reddit_trace034.pcap  (543 packets)
+    Cooling down for 5s...
+
+[*] Trace 35/50 → reddit_trace035.pcap
+[+] Saved: reddit_trace035.pcap  (524 packets)
+    Cooling down for 5s...
+
+[*] Trace 36/50 → reddit_trace036.pcap
+[+] Saved: reddit_trace036.pcap  (556 packets)
+    Cooling down for 5s...
+
+[*] Trace 37/50 → reddit_trace037.pcap
+[+] Saved: reddit_trace037.pcap  (571 packets)
+    Cooling down for 5s...
+
+[*] Trace 38/50 → reddit_trace038.pcap
+[+] Saved: reddit_trace038.pcap  (534 packets)
+    Cooling down for 5s...
+
+[*] Trace 39/50 → reddit_trace039.pcap
+[+] Saved: reddit_trace039.pcap  (556 packets)
+    Cooling down for 5s...
+
+[*] Trace 40/50 → reddit_trace040.pcap
+[+] Saved: reddit_trace040.pcap  (538 packets)
+    Cooling down for 5s...
+
+[*] Trace 41/50 → reddit_trace041.pcap
+[+] Saved: reddit_trace041.pcap  (528 packets)
+    Cooling down for 5s...
+
+[*] Trace 42/50 → reddit_trace042.pcap
+[+] Saved: reddit_trace042.pcap  (537 packets)
+    Cooling down for 5s...
+
+[*] Trace 43/50 → reddit_trace043.pcap
+[+] Saved: reddit_trace043.pcap  (528 packets)
+    Cooling down for 5s...
+
+[*] Trace 44/50 → reddit_trace044.pcap
+[+] Saved: reddit_trace044.pcap  (553 packets)
+    Cooling down for 5s...
+
+[*] Trace 45/50 → reddit_trace045.pcap
+[+] Saved: reddit_trace045.pcap  (543 packets)
+    Cooling down for 5s...
+
+[*] Trace 46/50 → reddit_trace046.pcap
+[+] Saved: reddit_trace046.pcap  (499 packets)
+    Cooling down for 5s...
+
+[*] Trace 47/50 → reddit_trace047.pcap
+[+] Saved: reddit_trace047.pcap  (493 packets)
+    Cooling down for 5s...
+
+[*] Trace 48/50 → reddit_trace048.pcap
+[+] Saved: reddit_trace048.pcap  (521 packets)
+    Cooling down for 5s...
+
+[*] Trace 49/50 → reddit_trace049.pcap
+[+] Saved: reddit_trace049.pcap  (544 packets)
+    Cooling down for 5s...
+
+[*] Trace 50/50 → reddit_trace050.pcap
+[+] Saved: reddit_trace050.pcap  (534 packets)
+
+[✓] Capture complete — 50 traces saved for 'reddit'
+    → /Users/samiurprrapon/Documents/2026/Fahim/final_project/data/experiment/capture_files
+
+  RESULT: SUCCESS — 50/50 traces collected
+  END   : 2026-02-22 05:59:14
+========================================

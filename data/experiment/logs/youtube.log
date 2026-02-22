@@ -1,0 +1,228 @@
+========================================
+  LABEL : youtube
+  URL   : https://www.youtube.com
+  IPs   : 142.251.221.206 142.250.77.110 142.251.221.174 142.250.66.14 142.250.205.78 172.217.24.206 142.251.222.174 142.250.206.78 142.250.67.46 142.250.207.78 142.251.222.142 142.250.206.14 142.250.205.142 142.250.205.14 142.251.222.206 142.251.43.46 2404:6800:4007:804::200e 2404:6800:4007:802::200e 2404:6800:4007:808::200e 2404:6800:4007:833::200e
+  START : 2026-02-22 05:29:35
+========================================
+  [DNS] Resolving IPs for: www.youtube.com
+  [DNS] IPv4: 142.251.221.206 142.250.77.110 142.251.221.174 142.250.66.14 142.250.205.78 172.217.24.206 142.251.222.174 142.250.206.78 142.250.67.46 142.250.207.78 142.251.222.142 142.250.206.14 142.250.205.142 142.250.205.14 142.251.222.206 142.251.43.46 
+  [DNS] IPv6: 2404:6800:4007:804::200e 2404:6800:4007:802::200e 2404:6800:4007:808::200e 2404:6800:4007:833::200e 
+  [BPF] Filter: (tcp or udp) and (host 142.251.221.206 or host 142.250.77.110 or host 142.251.221.174 or host 142.250.66.14 or host 142.250.205.78 or host 172.217.24.206 or host 142.251.222.174 or host 142.250.206.78 or host 142.250.67.46 or host 142.250.207.78 or host 142.251.222.142 or host 142.250.206.14 or host 142.250.205.142 or host 142.250.205.14 or host 142.251.222.206 or host 142.251.43.46 or host 2404:6800:4007:804::200e or host 2404:6800:4007:802::200e or host 2404:6800:4007:808::200e or host 2404:6800:4007:833::200e)
+
+============================================
+  Website Fingerprinting — Traffic Capture
+============================================
+  Label     : youtube
+  URL       : https://www.youtube.com
+  Hostname  : www.youtube.com
+  Traces    : 50
+  Duration  : 30s per trace
+  Interface : en0
+  Output    : /Users/samiurprrapon/Documents/2026/Fahim/final_project/data/experiment/capture_files
+============================================
+
+[*] Trace 1/50 → youtube_trace001.pcap
+[+] Saved: youtube_trace001.pcap  (653 packets)
+    Cooling down for 5s...
+
+[*] Trace 2/50 → youtube_trace002.pcap
+[+] Saved: youtube_trace002.pcap  (647 packets)
+    Cooling down for 5s...
+
+[*] Trace 3/50 → youtube_trace003.pcap
+[+] Saved: youtube_trace003.pcap  (668 packets)
+    Cooling down for 5s...
+
+[*] Trace 4/50 → youtube_trace004.pcap
+[+] Saved: youtube_trace004.pcap  (677 packets)
+    Cooling down for 5s...
+
+[*] Trace 5/50 → youtube_trace005.pcap
+[+] Saved: youtube_trace005.pcap  (651 packets)
+    Cooling down for 5s...
+
+[*] Trace 6/50 → youtube_trace006.pcap
+[+] Saved: youtube_trace006.pcap  (649 packets)
+    Cooling down for 5s...
+
+[*] Trace 7/50 → youtube_trace007.pcap
+[+] Saved: youtube_trace007.pcap  (661 packets)
+    Cooling down for 5s...
+
+[*] Trace 8/50 → youtube_trace008.pcap
+[+] Saved: youtube_trace008.pcap  (661 packets)
+    Cooling down for 5s...
+
+[*] Trace 9/50 → youtube_trace009.pcap
+[+] Saved: youtube_trace009.pcap  (681 packets)
+    Cooling down for 5s...
+
+[*] Trace 10/50 → youtube_trace010.pcap
+[+] Saved: youtube_trace010.pcap  (987 packets)
+    Cooling down for 5s...
+
+[*] Trace 11/50 → youtube_trace011.pcap
+[+] Saved: youtube_trace011.pcap  (656 packets)
+    Cooling down for 5s...
+
+[*] Trace 12/50 → youtube_trace012.pcap
+[+] Saved: youtube_trace012.pcap  (722 packets)
+    Cooling down for 5s...
+
+[*] Trace 13/50 → youtube_trace013.pcap
+[+] Saved: youtube_trace013.pcap  (703 packets)
+    Cooling down for 5s...
+
+[*] Trace 14/50 → youtube_trace014.pcap
+[+] Saved: youtube_trace014.pcap  (1195 packets)
+    Cooling down for 5s...
+
+[*] Trace 15/50 → youtube_trace015.pcap
+[+] Saved: youtube_trace015.pcap  (679 packets)
+    Cooling down for 5s...
+
+[*] Trace 16/50 → youtube_trace016.pcap
+[+] Saved: youtube_trace016.pcap  (691 packets)
+    Cooling down for 5s...
+
+[*] Trace 17/50 → youtube_trace017.pcap
+[+] Saved: youtube_trace017.pcap  (654 packets)
+    Cooling down for 5s...
+
+[*] Trace 18/50 → youtube_trace018.pcap
+[+] Saved: youtube_trace018.pcap  (657 packets)
+    Cooling down for 5s...
+
+[*] Trace 19/50 → youtube_trace019.pcap
+[+] Saved: youtube_trace019.pcap  (658 packets)
+    Cooling down for 5s...
+
+[*] Trace 20/50 → youtube_trace020.pcap
+[+] Saved: youtube_trace020.pcap  (651 packets)
+    Cooling down for 5s...
+
+[*] Trace 21/50 → youtube_trace021.pcap
+[+] Saved: youtube_trace021.pcap  (634 packets)
+    Cooling down for 5s...
+
+[*] Trace 22/50 → youtube_trace022.pcap
+[+] Saved: youtube_trace022.pcap  (629 packets)
+    Cooling down for 5s...
+
+[*] Trace 23/50 → youtube_trace023.pcap
+[+] Saved: youtube_trace023.pcap  (650 packets)
+    Cooling down for 5s...
+
+[*] Trace 24/50 → youtube_trace024.pcap
+[+] Saved: youtube_trace024.pcap  (677 packets)
+    Cooling down for 5s...
+
+[*] Trace 25/50 → youtube_trace025.pcap
+[+] Saved: youtube_trace025.pcap  (639 packets)
+    Cooling down for 5s...
+
+[*] Trace 26/50 → youtube_trace026.pcap
+[+] Saved: youtube_trace026.pcap  (650 packets)
+    Cooling down for 5s...
+
+[*] Trace 27/50 → youtube_trace027.pcap
+[+] Saved: youtube_trace027.pcap  (644 packets)
+    Cooling down for 5s...
+
+[*] Trace 28/50 → youtube_trace028.pcap
+[+] Saved: youtube_trace028.pcap  (653 packets)
+    Cooling down for 5s...
+
+[*] Trace 29/50 → youtube_trace029.pcap
+[+] Saved: youtube_trace029.pcap  (669 packets)
+    Cooling down for 5s...
+
+[*] Trace 30/50 → youtube_trace030.pcap
+[+] Saved: youtube_trace030.pcap  (651 packets)
+    Cooling down for 5s...
+
+[*] Trace 31/50 → youtube_trace031.pcap
+[+] Saved: youtube_trace031.pcap  (631 packets)
+    Cooling down for 5s...
+
+[*] Trace 32/50 → youtube_trace032.pcap
+[+] Saved: youtube_trace032.pcap  (644 packets)
+    Cooling down for 5s...
+
+[*] Trace 33/50 → youtube_trace033.pcap
+[+] Saved: youtube_trace033.pcap  (649 packets)
+    Cooling down for 5s...
+
+[*] Trace 34/50 → youtube_trace034.pcap
+[+] Saved: youtube_trace034.pcap  (644 packets)
+    Cooling down for 5s...
+
+[*] Trace 35/50 → youtube_trace035.pcap
+[+] Saved: youtube_trace035.pcap  (650 packets)
+    Cooling down for 5s...
+
+[*] Trace 36/50 → youtube_trace036.pcap
+[+] Saved: youtube_trace036.pcap  (670 packets)
+    Cooling down for 5s...
+
+[*] Trace 37/50 → youtube_trace037.pcap
+[+] Saved: youtube_trace037.pcap  (654 packets)
+    Cooling down for 5s...
+
+[*] Trace 38/50 → youtube_trace038.pcap
+[+] Saved: youtube_trace038.pcap  (647 packets)
+    Cooling down for 5s...
+
+[*] Trace 39/50 → youtube_trace039.pcap
+[+] Saved: youtube_trace039.pcap  (647 packets)
+    Cooling down for 5s...
+
+[*] Trace 40/50 → youtube_trace040.pcap
+[+] Saved: youtube_trace040.pcap  (629 packets)
+    Cooling down for 5s...
+
+[*] Trace 41/50 → youtube_trace041.pcap
+[+] Saved: youtube_trace041.pcap  (662 packets)
+    Cooling down for 5s...
+
+[*] Trace 42/50 → youtube_trace042.pcap
+[+] Saved: youtube_trace042.pcap  (678 packets)
+    Cooling down for 5s...
+
+[*] Trace 43/50 → youtube_trace043.pcap
+[+] Saved: youtube_trace043.pcap  (669 packets)
+    Cooling down for 5s...
+
+[*] Trace 44/50 → youtube_trace044.pcap
+[+] Saved: youtube_trace044.pcap  (654 packets)
+    Cooling down for 5s...
+
+[*] Trace 45/50 → youtube_trace045.pcap
+[+] Saved: youtube_trace045.pcap  (657 packets)
+    Cooling down for 5s...
+
+[*] Trace 46/50 → youtube_trace046.pcap
+[+] Saved: youtube_trace046.pcap  (650 packets)
+    Cooling down for 5s...
+
+[*] Trace 47/50 → youtube_trace047.pcap
+[+] Saved: youtube_trace047.pcap  (661 packets)
+    Cooling down for 5s...
+
+[*] Trace 48/50 → youtube_trace048.pcap
+[+] Saved: youtube_trace048.pcap  (646 packets)
+    Cooling down for 5s...
+
+[*] Trace 49/50 → youtube_trace049.pcap
+[+] Saved: youtube_trace049.pcap  (664 packets)
+    Cooling down for 5s...
+
+[*] Trace 50/50 → youtube_trace050.pcap
+[+] Saved: youtube_trace050.pcap  (666 packets)
+
+[✓] Capture complete — 50 traces saved for 'youtube'
+    → /Users/samiurprrapon/Documents/2026/Fahim/final_project/data/experiment/capture_files
+
+  RESULT: SUCCESS — 50/50 traces collected
+  END   : 2026-02-22 05:59:09
+========================================

@@ -1,0 +1,228 @@
+========================================
+  LABEL : stackoverflow
+  URL   : https://www.stackoverflow.com
+  IPs   : 198.252.206.1
+  START : 2026-02-22 05:29:43
+========================================
+  [DNS] Resolving IPs for: www.stackoverflow.com
+  [DNS] IPv4: 198.252.206.1 
+  [DNS] IPv6:  
+  [BPF] Filter: (tcp or udp) and (host 198.252.206.1)
+
+============================================
+  Website Fingerprinting — Traffic Capture
+============================================
+  Label     : stackoverflow
+  URL       : https://www.stackoverflow.com
+  Hostname  : www.stackoverflow.com
+  Traces    : 50
+  Duration  : 30s per trace
+  Interface : en0
+  Output    : /Users/samiurprrapon/Documents/2026/Fahim/final_project/data/experiment/capture_files
+============================================
+
+[*] Trace 1/50 → stackoverflow_trace001.pcap
+[+] Saved: stackoverflow_trace001.pcap  (25 packets)
+    Cooling down for 5s...
+
+[*] Trace 2/50 → stackoverflow_trace002.pcap
+[+] Saved: stackoverflow_trace002.pcap  (24 packets)
+    Cooling down for 5s...
+
+[*] Trace 3/50 → stackoverflow_trace003.pcap
+[+] Saved: stackoverflow_trace003.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 4/50 → stackoverflow_trace004.pcap
+[+] Saved: stackoverflow_trace004.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 5/50 → stackoverflow_trace005.pcap
+[+] Saved: stackoverflow_trace005.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 6/50 → stackoverflow_trace006.pcap
+[+] Saved: stackoverflow_trace006.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 7/50 → stackoverflow_trace007.pcap
+[+] Saved: stackoverflow_trace007.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 8/50 → stackoverflow_trace008.pcap
+[+] Saved: stackoverflow_trace008.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 9/50 → stackoverflow_trace009.pcap
+[+] Saved: stackoverflow_trace009.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 10/50 → stackoverflow_trace010.pcap
+[+] Saved: stackoverflow_trace010.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 11/50 → stackoverflow_trace011.pcap
+[+] Saved: stackoverflow_trace011.pcap  (29 packets)
+    Cooling down for 5s...
+
+[*] Trace 12/50 → stackoverflow_trace012.pcap
+[+] Saved: stackoverflow_trace012.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 13/50 → stackoverflow_trace013.pcap
+[+] Saved: stackoverflow_trace013.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 14/50 → stackoverflow_trace014.pcap
+[+] Saved: stackoverflow_trace014.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 15/50 → stackoverflow_trace015.pcap
+[+] Saved: stackoverflow_trace015.pcap  (25 packets)
+    Cooling down for 5s...
+
+[*] Trace 16/50 → stackoverflow_trace016.pcap
+[+] Saved: stackoverflow_trace016.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 17/50 → stackoverflow_trace017.pcap
+[+] Saved: stackoverflow_trace017.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 18/50 → stackoverflow_trace018.pcap
+[+] Saved: stackoverflow_trace018.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 19/50 → stackoverflow_trace019.pcap
+[+] Saved: stackoverflow_trace019.pcap  (25 packets)
+    Cooling down for 5s...
+
+[*] Trace 20/50 → stackoverflow_trace020.pcap
+[+] Saved: stackoverflow_trace020.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 21/50 → stackoverflow_trace021.pcap
+[+] Saved: stackoverflow_trace021.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 22/50 → stackoverflow_trace022.pcap
+[+] Saved: stackoverflow_trace022.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 23/50 → stackoverflow_trace023.pcap
+[+] Saved: stackoverflow_trace023.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 24/50 → stackoverflow_trace024.pcap
+[+] Saved: stackoverflow_trace024.pcap  (26 packets)
+    Cooling down for 5s...
+
+[*] Trace 25/50 → stackoverflow_trace025.pcap
+[+] Saved: stackoverflow_trace025.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 26/50 → stackoverflow_trace026.pcap
+[+] Saved: stackoverflow_trace026.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 27/50 → stackoverflow_trace027.pcap
+[+] Saved: stackoverflow_trace027.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 28/50 → stackoverflow_trace028.pcap
+[+] Saved: stackoverflow_trace028.pcap  (24 packets)
+    Cooling down for 5s...
+
+[*] Trace 29/50 → stackoverflow_trace029.pcap
+[+] Saved: stackoverflow_trace029.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 30/50 → stackoverflow_trace030.pcap
+[+] Saved: stackoverflow_trace030.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 31/50 → stackoverflow_trace031.pcap
+[+] Saved: stackoverflow_trace031.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 32/50 → stackoverflow_trace032.pcap
+[+] Saved: stackoverflow_trace032.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 33/50 → stackoverflow_trace033.pcap
+[+] Saved: stackoverflow_trace033.pcap  (25 packets)
+    Cooling down for 5s...
+
+[*] Trace 34/50 → stackoverflow_trace034.pcap
+[+] Saved: stackoverflow_trace034.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 35/50 → stackoverflow_trace035.pcap
+[+] Saved: stackoverflow_trace035.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 36/50 → stackoverflow_trace036.pcap
+[+] Saved: stackoverflow_trace036.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 37/50 → stackoverflow_trace037.pcap
+[+] Saved: stackoverflow_trace037.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 38/50 → stackoverflow_trace038.pcap
+[+] Saved: stackoverflow_trace038.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 39/50 → stackoverflow_trace039.pcap
+[+] Saved: stackoverflow_trace039.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 40/50 → stackoverflow_trace040.pcap
+[+] Saved: stackoverflow_trace040.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 41/50 → stackoverflow_trace041.pcap
+[+] Saved: stackoverflow_trace041.pcap  (26 packets)
+    Cooling down for 5s...
+
+[*] Trace 42/50 → stackoverflow_trace042.pcap
+[+] Saved: stackoverflow_trace042.pcap  (26 packets)
+    Cooling down for 5s...
+
+[*] Trace 43/50 → stackoverflow_trace043.pcap
+[+] Saved: stackoverflow_trace043.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 44/50 → stackoverflow_trace044.pcap
+[+] Saved: stackoverflow_trace044.pcap  (28 packets)
+    Cooling down for 5s...
+
+[*] Trace 45/50 → stackoverflow_trace045.pcap
+[+] Saved: stackoverflow_trace045.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 46/50 → stackoverflow_trace046.pcap
+[+] Saved: stackoverflow_trace046.pcap  (25 packets)
+    Cooling down for 5s...
+
+[*] Trace 47/50 → stackoverflow_trace047.pcap
+[+] Saved: stackoverflow_trace047.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 48/50 → stackoverflow_trace048.pcap
+[+] Saved: stackoverflow_trace048.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 49/50 → stackoverflow_trace049.pcap
+[+] Saved: stackoverflow_trace049.pcap  (27 packets)
+    Cooling down for 5s...
+
+[*] Trace 50/50 → stackoverflow_trace050.pcap
+[+] Saved: stackoverflow_trace050.pcap  (28 packets)
+
+[✓] Capture complete — 50 traces saved for 'stackoverflow'
+    → /Users/samiurprrapon/Documents/2026/Fahim/final_project/data/experiment/capture_files
+
+  RESULT: SUCCESS — 50/50 traces collected
+  END   : 2026-02-22 05:59:20
+========================================

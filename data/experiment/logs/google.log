@@ -1,0 +1,228 @@
+========================================
+  LABEL : google
+  URL   : https://www.google.com
+  IPs   : 172.217.24.100 2404:6800:4007:82f::2004
+  START : 2026-02-22 05:29:33
+========================================
+  [DNS] Resolving IPs for: www.google.com
+  [DNS] IPv4: 172.217.24.100 
+  [DNS] IPv6: 2404:6800:4007:82f::2004 
+  [BPF] Filter: (tcp or udp) and (host 172.217.24.100 or host 2404:6800:4007:82f::2004)
+
+============================================
+  Website Fingerprinting — Traffic Capture
+============================================
+  Label     : google
+  URL       : https://www.google.com
+  Hostname  : www.google.com
+  Traces    : 50
+  Duration  : 30s per trace
+  Interface : en0
+  Output    : /Users/samiurprrapon/Documents/2026/Fahim/final_project/data/experiment/capture_files
+============================================
+
+[*] Trace 1/50 → google_trace001.pcap
+[+] Saved: google_trace001.pcap  (88 packets)
+    Cooling down for 5s...
+
+[*] Trace 2/50 → google_trace002.pcap
+[+] Saved: google_trace002.pcap  (86 packets)
+    Cooling down for 5s...
+
+[*] Trace 3/50 → google_trace003.pcap
+[+] Saved: google_trace003.pcap  (82 packets)
+    Cooling down for 5s...
+
+[*] Trace 4/50 → google_trace004.pcap
+[+] Saved: google_trace004.pcap  (88 packets)
+    Cooling down for 5s...
+
+[*] Trace 5/50 → google_trace005.pcap
+[+] Saved: google_trace005.pcap  (89 packets)
+    Cooling down for 5s...
+
+[*] Trace 6/50 → google_trace006.pcap
+[+] Saved: google_trace006.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 7/50 → google_trace007.pcap
+[+] Saved: google_trace007.pcap  (89 packets)
+    Cooling down for 5s...
+
+[*] Trace 8/50 → google_trace008.pcap
+[+] Saved: google_trace008.pcap  (91 packets)
+    Cooling down for 5s...
+
+[*] Trace 9/50 → google_trace009.pcap
+[+] Saved: google_trace009.pcap  (86 packets)
+    Cooling down for 5s...
+
+[*] Trace 10/50 → google_trace010.pcap
+[+] Saved: google_trace010.pcap  (88 packets)
+    Cooling down for 5s...
+
+[*] Trace 11/50 → google_trace011.pcap
+[+] Saved: google_trace011.pcap  (88 packets)
+    Cooling down for 5s...
+
+[*] Trace 12/50 → google_trace012.pcap
+[+] Saved: google_trace012.pcap  (89 packets)
+    Cooling down for 5s...
+
+[*] Trace 13/50 → google_trace013.pcap
+[+] Saved: google_trace013.pcap  (85 packets)
+    Cooling down for 5s...
+
+[*] Trace 14/50 → google_trace014.pcap
+[+] Saved: google_trace014.pcap  (90 packets)
+    Cooling down for 5s...
+
+[*] Trace 15/50 → google_trace015.pcap
+[+] Saved: google_trace015.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 16/50 → google_trace016.pcap
+[+] Saved: google_trace016.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 17/50 → google_trace017.pcap
+[+] Saved: google_trace017.pcap  (90 packets)
+    Cooling down for 5s...
+
+[*] Trace 18/50 → google_trace018.pcap
+[+] Saved: google_trace018.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 19/50 → google_trace019.pcap
+[+] Saved: google_trace019.pcap  (89 packets)
+    Cooling down for 5s...
+
+[*] Trace 20/50 → google_trace020.pcap
+[+] Saved: google_trace020.pcap  (86 packets)
+    Cooling down for 5s...
+
+[*] Trace 21/50 → google_trace021.pcap
+[+] Saved: google_trace021.pcap  (88 packets)
+    Cooling down for 5s...
+
+[*] Trace 22/50 → google_trace022.pcap
+[+] Saved: google_trace022.pcap  (85 packets)
+    Cooling down for 5s...
+
+[*] Trace 23/50 → google_trace023.pcap
+[+] Saved: google_trace023.pcap  (88 packets)
+    Cooling down for 5s...
+
+[*] Trace 24/50 → google_trace024.pcap
+[+] Saved: google_trace024.pcap  (84 packets)
+    Cooling down for 5s...
+
+[*] Trace 25/50 → google_trace025.pcap
+[+] Saved: google_trace025.pcap  (85 packets)
+    Cooling down for 5s...
+
+[*] Trace 26/50 → google_trace026.pcap
+[+] Saved: google_trace026.pcap  (85 packets)
+    Cooling down for 5s...
+
+[*] Trace 27/50 → google_trace027.pcap
+[+] Saved: google_trace027.pcap  (88 packets)
+    Cooling down for 5s...
+
+[*] Trace 28/50 → google_trace028.pcap
+[+] Saved: google_trace028.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 29/50 → google_trace029.pcap
+[+] Saved: google_trace029.pcap  (79 packets)
+    Cooling down for 5s...
+
+[*] Trace 30/50 → google_trace030.pcap
+[+] Saved: google_trace030.pcap  (90 packets)
+    Cooling down for 5s...
+
+[*] Trace 31/50 → google_trace031.pcap
+[+] Saved: google_trace031.pcap  (84 packets)
+    Cooling down for 5s...
+
+[*] Trace 32/50 → google_trace032.pcap
+[+] Saved: google_trace032.pcap  (86 packets)
+    Cooling down for 5s...
+
+[*] Trace 33/50 → google_trace033.pcap
+[+] Saved: google_trace033.pcap  (92 packets)
+    Cooling down for 5s...
+
+[*] Trace 34/50 → google_trace034.pcap
+[+] Saved: google_trace034.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 35/50 → google_trace035.pcap
+[+] Saved: google_trace035.pcap  (85 packets)
+    Cooling down for 5s...
+
+[*] Trace 36/50 → google_trace036.pcap
+[+] Saved: google_trace036.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 37/50 → google_trace037.pcap
+[+] Saved: google_trace037.pcap  (89 packets)
+    Cooling down for 5s...
+
+[*] Trace 38/50 → google_trace038.pcap
+[+] Saved: google_trace038.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 39/50 → google_trace039.pcap
+[+] Saved: google_trace039.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 40/50 → google_trace040.pcap
+[+] Saved: google_trace040.pcap  (88 packets)
+    Cooling down for 5s...
+
+[*] Trace 41/50 → google_trace041.pcap
+[+] Saved: google_trace041.pcap  (90 packets)
+    Cooling down for 5s...
+
+[*] Trace 42/50 → google_trace042.pcap
+[+] Saved: google_trace042.pcap  (89 packets)
+    Cooling down for 5s...
+
+[*] Trace 43/50 → google_trace043.pcap
+[+] Saved: google_trace043.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 44/50 → google_trace044.pcap
+[+] Saved: google_trace044.pcap  (92 packets)
+    Cooling down for 5s...
+
+[*] Trace 45/50 → google_trace045.pcap
+[+] Saved: google_trace045.pcap  (89 packets)
+    Cooling down for 5s...
+
+[*] Trace 46/50 → google_trace046.pcap
+[+] Saved: google_trace046.pcap  (92 packets)
+    Cooling down for 5s...
+
+[*] Trace 47/50 → google_trace047.pcap
+[+] Saved: google_trace047.pcap  (85 packets)
+    Cooling down for 5s...
+
+[*] Trace 48/50 → google_trace048.pcap
+[+] Saved: google_trace048.pcap  (87 packets)
+    Cooling down for 5s...
+
+[*] Trace 49/50 → google_trace049.pcap
+[+] Saved: google_trace049.pcap  (84 packets)
+    Cooling down for 5s...
+
+[*] Trace 50/50 → google_trace050.pcap
+[+] Saved: google_trace050.pcap  (91 packets)
+
+[✓] Capture complete — 50 traces saved for 'google'
+    → /Users/samiurprrapon/Documents/2026/Fahim/final_project/data/experiment/capture_files
+
+  RESULT: SUCCESS — 50/50 traces collected
+  END   : 2026-02-22 05:59:09
+========================================

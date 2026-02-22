@@ -1,0 +1,14 @@
+# Requirements for VCFingerprinting Reimplementation
+# Python 3.12
+
+numpy>=2.4.2
+pandas>=3.0.1
+scikit-learn>=1.8.0
+matplotlib>=3.10.8
+openpyxl>=3.1.5
+seaborn>=0.13.2
+scapy>=2.5.0
+ipykernel==7.2.0
+jupyter==1.1.1
+notebook==7.5.3
+ruff>=0.15.2
